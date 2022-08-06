@@ -50,7 +50,7 @@ Request Type: GET
 
 ### To mark a contact as SPAM
 ```
-Private Route: http://localhost:8000/account/spam/
+Private Route: http://localhost:8000/account/spams/
 Request Type: POST
 Data:
     {
